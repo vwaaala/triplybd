@@ -1,8 +1,4 @@
 /storage/*.key
-storage/app/*
-!storage/app/public/
-storage/app/public/*
-!storage/app/public/demo/
 /.idea/*
 !.idea/codeStyles/*
 .env
